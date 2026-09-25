@@ -6,7 +6,7 @@ Este proyecto consiste en un cuadro de mando interactivo (*Dashboard*) desarroll
 
 ## 🎨 Vista Previa del Dashboard
 
-![Vista Previa del Dashboard](panel%20de%20control.png)
+![Vista Previa del Dashboard](dashboard.png)
 
 ---
 
